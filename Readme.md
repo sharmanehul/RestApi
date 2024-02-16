@@ -1,1 +1,1 @@
-
+This consists of creating REST APIS showing CRUD operations on User Model and also it includes solution to another question asking for middleware to print the details in console like timestamp,type of request,endpoint,accessToken
